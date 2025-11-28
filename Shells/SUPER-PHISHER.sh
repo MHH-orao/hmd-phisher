@@ -29,7 +29,7 @@ show_banner() {
     echo " ██║  ██║██║ ╚═╝ ██║██║  ██║   ██║     ██║  ██║██║███████║██║  ██║███████╗██║  ██║"
     echo " ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝"
     echo -e "${RED}"
-    echo "                        ⚡ ULTIMATE SUPER TOOL v5.0 ⚡"
+    echo "                        ⚡ ULTIMATE SUPER TOOL v1.0 ⚡"
     echo -e "${YELLOW}"
     echo "                  MULTI-TUNNEL • AUTO-DNS • BASH POWERED"
     echo -e "${WHITE}"
